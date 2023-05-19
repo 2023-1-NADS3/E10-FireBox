@@ -1,0 +1,6 @@
+* Desenvolvimento do serviço de cadastro de produtos
+* Desenvolvimento das funções que registram dadis dos produtos no banco de dados
+* Desenvolvimento de funções para armazenamento de imagens no banco de dados
+* Desenvolvimento de funções para recuperar a URL dessas imagens e associar aos dados do produto
+* Desenvolvimento de funcões para recuperação de dados do usuário que cadastrou o produto
+* Desenvolvimento de funções para checar se há campos vázios durante o cadastro

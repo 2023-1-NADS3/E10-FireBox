@@ -15,8 +15,9 @@
 ## Descrição
 
 <p align="center">
-<img src="" alt="LOGO" border="0">
+<img src="./logo.svg" alt="LOGO" border="0">
 
 
 O Firebox é um ecommerce que permite aos usuários criar uma conta e cadastrar produtos para venda. Após cadastrar os produtos, os compradores entram em contato com os vendedores via WhatsApp para fazer acordos e finalizar as transações. O Firebox facilita a exposição dos produtos e conecta os compradores aos vendedores, mas a negociação e a venda acontecem fora da plataforma, diretamente no WhatsApp.
 <br><br>
+  Link para o projeto: <a href="https://firebox-841fc.web.app/home">Clique aqui para acessar</a>
